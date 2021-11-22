@@ -1,7 +1,7 @@
 {
-  "name": "logmecn/weworkapi",
+  "name": "xiaolu/weworkapi",
   "description": "WeWork API SDK, 企业微信接口客户端SDK封装",
-  "keywords": ["logmecn", "weWork"],
+  "keywords": ["xiaolu", "weWork"],
   "version": "1.0.1",
   "license": "MIT",
   "minimum-stability": "dev",
@@ -9,9 +9,9 @@
   "type": "library",
   "authors": [
     {
-      "name": "logmecn",
-      "email": "logme@foxmail.com",
-      "homepage": "https://github.com/logmecn",
+      "name": "xiaolu",
+      "email": "xiaolu@github.com",
+      "homepage": "https://github.com/xiaolu",
       "role": "Developer"
     }
   ],
