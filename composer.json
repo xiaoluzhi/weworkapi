@@ -1,7 +1,7 @@
 {
-  "name": "xiaolu/weworkapi",
+  "name": "xiaoluzhi/weworkapi",
   "description": "WeWork API SDK, 企业微信接口客户端SDK封装",
-  "keywords": ["xiaolu", "weWork"],
+  "keywords": ["xiaoluzhi", "weWork"],
   "version": "1.0.1",
   "license": "MIT",
   "minimum-stability": "dev",
@@ -9,9 +9,9 @@
   "type": "library",
   "authors": [
     {
-      "name": "xiaolu",
+      "name": "xiaoluzhi",
       "email": "xiaolu@github.com",
-      "homepage": "https://github.com/xiaolu",
+      "homepage": "https://github.com/xiaoluzhi",
       "role": "Developer"
     }
   ],
